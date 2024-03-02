@@ -4,6 +4,10 @@ author: Guadalupe Rivera
 output: github_document
 ---
 
-#My first commit
+# My first commit
 
 Here is some text that constitutes my first commit in my first repo.
+
+# My second commit
+
+Here is more test taht will be added in my second commit
