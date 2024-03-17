@@ -5,10 +5,11 @@ Guadalupe Rivera
 # My first commit
 
 Here is some text that constitutes my first commit in my first repo.
+text for another commit. text for yet another commit.
 
 # My second commit
 
-Here is more test taht will be added in my second commit
+Here is more test that will be added in my second commit
 
 # My third commit
 
